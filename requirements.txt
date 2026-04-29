@@ -1,0 +1,15 @@
+Flask==2.3.3
+Flask-Login==0.6.3
+Flask-SQLAlchemy==3.1.1
+Flask-WTF==1.2.1
+Werkzeug==3.0.1
+opencv-python==4.9.0.80
+Pillow==10.2.0
+python-dotenv==1.0.1
+numpy==1.26.3
+requests==2.31.0
+gunicorn==21.2.0
+torch==2.2.0
+torchvision==0.17.0
+SQLAlchemy==2.0.25
+python-magic==0.4.27
